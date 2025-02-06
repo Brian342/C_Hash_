@@ -1,6 +1,6 @@
-namespace decision;
+﻿namespace Decison;
 
- class Decisions
+ class Decision
     {
         static void main(string[] args)
     {
